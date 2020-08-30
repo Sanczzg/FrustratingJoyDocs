@@ -9,7 +9,7 @@ description: "好兄弟们大家好\U0001F92A~"
 为了低调我并没有设立华丽的推广页面，仅有可供大家正常注册、购买和使用的控制面板。
 
 {% hint style="info" %}
-**面板跳转链接:** [**☍跳转连接**](https://panel.frustratingjoy.com)\*\*\*\*
+**面板跳转链接:** [**☍抑郁云面板**](https://panel.frustratingjoy.com)\*\*\*\*
 {% endhint %}
 
 ## 注册步骤
