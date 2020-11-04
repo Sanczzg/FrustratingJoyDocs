@@ -22,7 +22,7 @@ Clash for Windows的官方发布渠道目前仅有Github，所有的更新也都
 
 由于Github的下载在国内非翻墙环境速度较为缓慢，甚至个别地区几乎不可用，我也自行提供了一个下载链接，供大家使用。但不保证实时跟进最新版安装包。
 
-[☍抑郁云：Clash for Windows](https://panel.frustratingjoy.com/resources/Software/Clash-for-Windows-v0.11.3.exe)
+[☍抑郁云：Clash for Windows](https://panel.frustratingjoy.com/resources/Software/Clash-for-Windows-v0.13.1.exe)
 
 ## 下一步
 
